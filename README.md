@@ -1,8 +1,8 @@
-### Hello there 👋
+### Hello there 👋 My Name is José
 
 #### I'm a coder by day ☼ and night ☾
 
 - ⚙️ I use daily: `.cs`, `.js`, `.java`
 - 💬 `ping` me about **c#**, **spring-boot**, **java**, **development**, **design thinking**
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmagalhaes97&count_private=true)](https://github.com/jmagalhaes97/github-readme-stats)
+<!--[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmagalhaes97&count_private=true)] -->
