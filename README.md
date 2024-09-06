@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jmagalhaes
-- 👀 I’m interested in Robust Backend technologies
-- 🌱 I’m currently learning Azure, Kafka and Spring
+### Hello there 👋
 
-<!---
-jmagalhaes97/jmagalhaes97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm a coder by day ☼ and night ☾
+
+- ⚙️ I use daily: `.cs`, `.js`, `.java`
+- 💬 `ping` me about **c#**, **spring-boot**, **java**, **development**, **design thinking**
+
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmagalhaes97&count_private=true)](https://github.com/jmagalhaes97/github-readme-stats)
